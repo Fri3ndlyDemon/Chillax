@@ -107,7 +107,7 @@
 
     /* settings modal root */
     --themelightsettingsmodalbackground: rgb(223, 223, 223);
-    --themedarksettingsmodalbackground: rgb(51, 49, 53);
+    --themedarksettingsmodalbackground: rgb(49, 0, 84);
     --settingsmodalwidth: 960px;
     --settingsmodalheight: 80vh;
 
